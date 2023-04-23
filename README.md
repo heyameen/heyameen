@@ -35,11 +35,11 @@ I'm a Frontend Developer\
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000)
+![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![NextJS](https://img.shields.io/badge/-Next%20js-000?&logo=Next-js)
+![NextJS](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
@@ -54,6 +54,7 @@ I'm a Frontend Developer\
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 <br />
 
 ### ⚙️ &nbsp;GitHub Analytics
