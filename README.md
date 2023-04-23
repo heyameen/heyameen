@@ -29,8 +29,8 @@ I'm a Frontend Developer\
 ### 🛠 &nbsp;Tech Stack
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
