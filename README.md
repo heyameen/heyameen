@@ -1,11 +1,7 @@
-<!---
-heyameen/heyameen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ### Ameen A. - Hi there 👋 
 
 <!--
-**bossfelfo/bossfelfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heyameen/heyameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 I'm a Frontend Developer\
-🔭 &nbsp;I’m currently working on [Planner Web App](https://github.com/planner)\
+🔭 &nbsp;I’m currently working on [Planner Web App](https://github.com/heyameen/planner)\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm on track for learning three.js\
 ✍️ &nbsp;In my free time, I Learn about ML/AI as a hobby.\
