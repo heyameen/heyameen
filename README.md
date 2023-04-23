@@ -39,7 +39,7 @@ I'm a Frontend Developer\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![NextJS](https://img.shields.io/badge/-Nextjs-000?&logo=Nextjs)
+![NextJS](https://img.shields.io/badge/-Next%20js-000?&logo=Next-js)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
