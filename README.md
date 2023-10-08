@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 I'm a Frontend Developer\
-🔭 &nbsp;I’m currently working on [Planner Web App](https://github.com/heyameen/planner)\
+🔭 &nbsp;I’m currently working on [A music web app](https://github.com/heyameen/tunez)\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm on track for learning three.js\
 ✍️ &nbsp;In my free time, I Learn about ML/AI as a hobby.\
