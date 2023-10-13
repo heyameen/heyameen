@@ -65,7 +65,7 @@ I'm a Frontend Developer with experience in Backend Development\
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.ameenalade.dev/"><img src="https://img.shields.io/badge/-ameen.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.ameenalade.dev/"><img src="https://img.shields.io/badge/-ameenalade.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ameen-alade-7643b5b9/"><img src="https://img.shields.io/badge/-Ameen%20A.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:aladeameen@gmail.com"><img src="https://img.shields.io/badge/-aladeameen@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
