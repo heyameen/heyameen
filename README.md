@@ -24,7 +24,7 @@ I'm a Frontend Developer with experience in Backend Development\
 ✍️ &nbsp;In my free time, I Learn about ML/AI as a hobby.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at aladeameen@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://www.ameenalade.dev/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Portfolio](https://www.ameenalade.dev/) for more details about me.
 
 
 ### 🛠 &nbsp;Tech Stack
