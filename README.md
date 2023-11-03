@@ -1,30 +1,11 @@
-### Ameen A. - Hi there 👋 
+### 😉, Welcome to my GitHub Profile!
 
-<!--
-**heyameen/heyameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ameen, a front-end developer in the UK.
 
-Here are some ideas to get you started:
+Currently, I am focused on front-end technologies aimed at simplifying the design of complex applications, allowing for enhanced functionality while optimizing the overall user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 👨🏻‍💻 &nbsp;About Me
-I'm a Frontend Developer with experience in Backend Development\
-🔭 &nbsp;I’m currently working on [Tunez](https://github.com/heyameen/tunez)\
-💡 &nbsp;I like to explore new technologies and develop software solutions that bridges the gap between business goals and users needs.\
-🎓 &nbsp;I'm on track for learning three.js\
-✍️ &nbsp;In my free time, I Learn about ML/AI as a hobby.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at aladeameen@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://www.ameenalade.dev/) for more details about me.
+I love exploring ideas and I spend a significant amount of time studying successful product apps, drawing inspiration from them, and using that inspiration to fuel my creativity.
+Visit my [Portfolio Site](https://ameenalade.dev) to learn more about me ツ
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -55,12 +36,6 @@ I'm a Frontend Developer with experience in Backend Development\
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
 ![Chakra UI](https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge%22)
 <br />
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-
-![Ameen's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyameen&count_private=true&show_icons=true&theme=blue-green)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyameen&theme=gotham)]
 
 ### 🤝🏻 &nbsp;Connect with Me
 
