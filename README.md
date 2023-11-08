@@ -46,6 +46,4 @@ Visit my [Portfolio Site](https://ameenalade.dev) to learn more about me ツ
 </p>
 
 -----
-Credits: [Ameen A.](https://github.com/heyameen)
 
-Last Edited on: 23/04/2023
