@@ -1,6 +1,7 @@
 ### 😉, Welcome to my GitHub Profile!
 
 Frontend development, to me, is not just about making things look good (though, let's be honest, that's a big part of the fun); it's about a desire to make the web more engaging, delightful, and accessible.
+
 I love exploring ideas and I spend a significant amount of time studying successful product apps, drawing inspiration from them, and using that inspiration to fuel my creativity.
 
 I am currently on the lookout for a role. I'd especially love to work at a startup where I can make an impact quickly. If you're hiring! let's chat.
