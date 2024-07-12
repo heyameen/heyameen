@@ -4,7 +4,7 @@ Frontend development, to me, is not just about making things look good (though, 
 
 I love exploring ideas and I spend a significant amount of time studying successful product apps, drawing inspiration from them, and using that inspiration to fuel my creativity.
 
-I am currently on the lookout for a role, ideally writing React or Angular. I'd especially love to work at a startup where I can make an impact quickly. If you're hiring! let's chat.
+I am currently on the lookout for a role, ideally writing React or Angular. I'd especially love to work at a growing startup where I can make an impact quickly. If you're hiring! let's chat.
 Visit my [Portfolio Site](https://ameenalade.dev) to learn more about me ツ
 
 
